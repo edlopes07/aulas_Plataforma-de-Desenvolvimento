@@ -1,12 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace Aula.Models
 {
     internal class Aluno
     {
+        [Required]
         public string Codigo { get; set; }
+        [Required]
         public string Nome { get; set; }
         private string email;
         public string Email
@@ -36,7 +39,6 @@ namespace Aula.Models
                 return idade;
             }
         }
-
 
         public virtual void PrintDados()
         {
