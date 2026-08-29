@@ -7,9 +7,10 @@ namespace Aula.Models
 {
     internal class Aluno
     {
-        [Required]
+        [Required, StringLength(8)]
         public string Codigo { get; set; }
         [Required]
+        [StringLength(80, MinimumLength = 10)]
         public string Nome { get; set; }
         private string email;
         public string Email
@@ -24,7 +25,7 @@ namespace Aula.Models
             }
         }
         public DateTime DataNascimento { get; set; }
-
+        [Range(15, 100)]
         public int Idade
         {
             get
