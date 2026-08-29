@@ -22,12 +22,29 @@ namespace Aula.Models
         }
         public DateTime DataNascimento { get; set; }
 
+        public int Idade
+        {
+            get
+            {
+                var hoje = DateTime.Today;
+                var idade = hoje.Year - DataNascimento.Year;
+                var hojeAnoNascimento = hoje.AddYears(-idade);
+                if (DataNascimento > hojeAnoNascimento)
+                {
+                    idade--;
+                }
+                return idade;
+            }
+        }
+
+
         public virtual void PrintDados()
         {
             Console.WriteLine($"Nome: {Nome}");
             Console.WriteLine($"E-mail: {Email}");
             Console.WriteLine($"Código: {Codigo}");
             Console.WriteLine("Data de Nascimento: {0:dd} de {0:MMMM} de {0:yyyy} ({0:dddd})", DataNascimento);
+            Console.WriteLine($"Idade: {Idade} anos");
         }
     }
 }
