@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Aula1/Aula1.csproj" />
+  <Project Path="Aula2/Aula2.csproj" />
+  <Project Path="Escola.Desktop/Escola.Desktop.csproj" Id="e6684355-87aa-4c02-873f-2a7c6342f0bb" />
+  <Project Path="Escola/Escola.csproj" Id="f566d02a-78c8-44d8-bc9d-941b54334324" />
+</Solution>
