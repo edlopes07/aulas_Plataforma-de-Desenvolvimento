@@ -1,0 +1,14 @@
+C:\Users\edulo\OneDrive\Desktop\projeto\Escola\bin\Debug\net10.0\Escola.exe
+C:\Users\edulo\OneDrive\Desktop\projeto\Escola\bin\Debug\net10.0\Escola.deps.json
+C:\Users\edulo\OneDrive\Desktop\projeto\Escola\bin\Debug\net10.0\Escola.runtimeconfig.json
+C:\Users\edulo\OneDrive\Desktop\projeto\Escola\bin\Debug\net10.0\Escola.dll
+C:\Users\edulo\OneDrive\Desktop\projeto\Escola\bin\Debug\net10.0\Escola.pdb
+C:\Users\edulo\OneDrive\Desktop\projeto\Escola\obj\Debug\net10.0\Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edulo\OneDrive\Desktop\projeto\Escola\obj\Debug\net10.0\Escola.AssemblyInfoInputs.cache
+C:\Users\edulo\OneDrive\Desktop\projeto\Escola\obj\Debug\net10.0\Escola.AssemblyInfo.cs
+C:\Users\edulo\OneDrive\Desktop\projeto\Escola\obj\Debug\net10.0\Escola.csproj.CoreCompileInputs.cache
+C:\Users\edulo\OneDrive\Desktop\projeto\Escola\obj\Debug\net10.0\Escola.dll
+C:\Users\edulo\OneDrive\Desktop\projeto\Escola\obj\Debug\net10.0\refint\Escola.dll
+C:\Users\edulo\OneDrive\Desktop\projeto\Escola\obj\Debug\net10.0\Escola.pdb
+C:\Users\edulo\OneDrive\Desktop\projeto\Escola\obj\Debug\net10.0\Escola.genruntimeconfig.cache
+C:\Users\edulo\OneDrive\Desktop\projeto\Escola\obj\Debug\net10.0\ref\Escola.dll
